@@ -18,11 +18,10 @@ The application enables users to organize journeys, manage itineraries, and coll
 
 ## 🛠️ Tech Stack
 
-> *(Update this section based on your actual technologies)*
 
-* **Frontend:** (e.g., Flutter / React / Qt)
-* **Backend:** (e.g., Spring Boot / Node.js)
-* **Database:** (e.g., MySQL / MongoDB / Firebase)
+* **Frontend:** (Java Script/ HTML/ CSS)
+* **Backend:** (PHP)
+* **Database:** (MySQL)
 * **Tools:** Git, GitHub
 
 ---
